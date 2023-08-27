@@ -3,6 +3,7 @@
 
 ### VisualStudioCode ###
 .vscode/*      # Maybe .vscode/**/* instead - see comments
+.idea
 !.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json
